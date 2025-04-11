@@ -1,1 +1,1 @@
-# YTPlaylistTracker
+This extension does not collect, store, or transmit any personally identifiable information or user data. All playlist data and preferences are stored locally in your browser using Chrome’s storage API. No information is sent to any server or third party
